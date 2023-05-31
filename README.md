@@ -7,7 +7,7 @@
 
 - 📫 Correo **juanjosegomezsanche@gmail.com**
 
-- ⚡ Acerca de mi **Pseudo-programador depresivo**
+- ⚡ Acerca de mi **Me gustan los retos y aprender,busco soluciones y si no las encuentro creo las mias**
 
 <p align="left">
 </p>
