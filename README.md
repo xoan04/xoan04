@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Soy Juan</h1>
 <h3 align="center">Soy estudiante de Ingeniería de Sistemas en Colombia.</h3>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Salesforce**
 
 - 👨‍💻 Mis proyectos [https://github.com/xoan04?tab=repositories](https://github.com/xoan04?tab=repositories)
 
