@@ -5,7 +5,8 @@
 
 - 💬 Ask me about **Python,Django,SQL Queries,Database Administration,mobile development,Flutter,Javascript, Next.js and Tailwind.**
 
-- 📫 How to reach me **juanjosegomezsanche@gmail.com**
+- 📫 How to reach me **ju4ng0mezs@gmail.com
+**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1OcR496JRLJd3KguN8cSB635zQn_RsL-Y/view?usp=sharing](https://drive.google.com/file/d/1OcR496JRLJd3KguN8cSB635zQn_RsL-Y/view?usp=sharing)
 
